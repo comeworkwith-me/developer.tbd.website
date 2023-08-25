@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@tbd54566975/web5": "0.7.11",
+    "@web5/api": "0.8.0-alpha-20230825-adebf25",
     "react-markdown": "^8.0.7"
   },
   "devDependencies": {
